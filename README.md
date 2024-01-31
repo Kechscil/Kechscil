@@ -1,5 +1,4 @@
-- 👋 Hi, i am **Priscilla Nkechi Egbo.**
-
+- 👋 Hi, I am **Priscilla Nkechi Egbo.**
 A graduate of University of Calabar. 
 I studied Policy Studies and Administration.
 - Currently combining my **Policy Analyst and Administrative career** with **Data Analytics**. Having seen that **Policy Making and Administration** revolves around **Data**, it aroused my curiosity to go into **Data Analytics**.
