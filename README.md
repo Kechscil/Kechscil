@@ -6,7 +6,7 @@ I studied Policy Studies and Administration.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priscilla-nkechi-egbo-57bb39267)
 - [Twitter](https://twitter.com/PriscillaNkechi?t=nRr6R3KTuu5uNrhmoXC_Kg&s=08)
 
--Pronounce: She
+- Pronounce: She
 
 Kechscil/Kechscil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
